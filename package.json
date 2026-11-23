@@ -1,0 +1,8 @@
+{
+  "name": "siapasn-2027-lms",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
